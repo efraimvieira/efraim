@@ -1,0 +1,21 @@
+net_graph 1	- Permite ver várias informações sobre seu FPS, ping, tick rate do servidor e muito mais.
+fps_max 0	- Remove os limites de FPS, o que te deixa chegar ao melhor valor possível no seu PC atual.
+cl_radar_always_centered	- Centraliza o radar de forma que você consiga ver os mapas por inteiro.
+cl_use_opens_buy_menu 0	- Impede que a tecla “usar” abra o menu de compras
+cl_show_team_equipment	- Permite ver os armamentos e utilitários dos aliados sobre a cabeça deles
+voice_scale 0.3	- Diminui o volume das vozes das pessoas na sua sala para um nível adequado
+sv_cheats 1	- - O dono do servidor permite que qualquer usuário dentro de seu servidor possa ativar quase todos os comandos de console
+sv_showimpacts 1	- Permite ver onde suas balas chegam na sua visão (vermelho) e onde elas realmente param no servidor (azul)
+sv_grenade_trajectory 1 - sv_grenade_trajectory_time 10	Como o sv_showimpacts 1, mas para as granadas
+cl_drawonlydeathnotices 1	- Desativa a HUD (as informações na tela) e mostra só os nomes de suas vítimas nos clipe
+r_drawtracers_firstperson 0	- Desliga os rastros das balas de armas como a M4A4 e a AK-47 na visão do jogador
+spec_show_xray 1	- Permite ver movimentos do personagem do jogador através de todas as paredes
+cl_show_team_equipment	- Mostra que utilitários seus aliados têm
+voice_enable 0	- Deixa sem som a voz todos os aliados
+demoui	- Mostra uma pequena interface retangular para assistir demos
+god	- Ninguém pode te matar e você não recebe dano dos outros jogadores. Precisa do sv_cheats 1 ativado.
+noclip	- Você pode atravessar paredes, tetos e o limite do céu do mapa se o sv_cheats 1 estiver ativado.
+kill	- Faz seu personagem se matar, mas só com o sv_cheats 1 ativado.
+exec	- Ativar as configurações de servidores particulares
+disconnect	- Sair de qualquer servidor na hora
+quit	- Fechar seu jogo por completo
